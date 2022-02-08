@@ -1,0 +1,26 @@
+body {
+  background-color: #0d0c0c !important;
+  color: white !important;
+  margin-left: 5% !important;
+  margin-right: 5% !important;
+}
+
+h1 {
+  text-align: center;
+  font-size: 5rem !important;
+  padding: 2rem;
+  color:  orange;
+}
+
+a {
+  text-decoration: none !important;
+  color: orange !important;
+}
+
+a:hover {
+  font-weight: bold;
+}
+
+table {
+  color: white !important;
+}
